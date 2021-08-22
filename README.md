@@ -9,3 +9,9 @@
 - Related codes can be found in the 1_Arithmetic_Arranger folder
 - Objective: to print out a nicely formatted arithmetic table
 
+
+
+## 4th project: Polygon Area Calculator
+- Development was done on replit: https://replit.com/@SyahriIkram/boilerplate-polygon-area-calculator
+- Related codes can be found in the 4_Polygon_Area_Calculator folder
+- Objective: polygon calculator with object oriented programming
