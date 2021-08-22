@@ -54,4 +54,3 @@ def arithmetic_arranger(problems, solution=False):
     arranged_problems = first_line[:-4] + "\n" + second_line[:-4] + "\n" + third_line[:-4] + "\n"
 
   return arranged_problems
-

@@ -1,5 +1,4 @@
 Python for Everybody (56 videos/topics)
-
 Just basic summary/notes taking during the videos - watch the videos to get in depth details :)!
 
 Introduction: Why Program? 
@@ -7,7 +6,7 @@ Introduction: Why Program?
 
 Introduction: Hardware Architecture
 - learn about the differences of CPU, Memory and Hard Drive
-- programs get stored at Memory during run time
+- programs get stored at memory during run time
 
 Introduction: Python as a language
 - basic syntax of python
@@ -171,4 +170,4 @@ Objects: Inheritance
 - class ParentClass:
 - class SubClass(ParentClass):
 
-
+...
