@@ -1,4 +1,6 @@
-Python for Everybody SECTION:
+Python for Everybody (56 videos/topics)
+
+Just basic summary/notes taking during the videos - watch the videos to get in depth details :)!
 
 Introduction: Why Program? 
 - general idea of why everyone should learn programming.
