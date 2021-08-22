@@ -1,0 +1,172 @@
+Python for Everybody SECTION:
+
+Introduction: Why Program? 
+- general idea of why everyone should learn programming.
+
+Introduction: Hardware Architecture
+- learn about the differences of CPU, Memory and Hard Drive
+- programs get stored at Memory during run time
+
+Introduction: Python as a language
+- basic syntax of python
+- print
+
+Introduction: Elements of Python
+- addition, subtraction
+
+Variables, Expressions, and Statements
+- constants
+- reserved words
+- python variable name rules: must start with a letter or underscore _
+
+Intermediate Expressions
+- division, float
+
+Conditional Execution
+- if/else
+
+More Conditional Structures
+- if, elif, else 
+- try, except 
+
+Python Functions
+- reusable code that takes argument(s) as input, does computation, and return something
+
+Build your own Functions
+- built-in functions, type conversion, string conversions
+- parameters
+
+Loops and Iterations
+- while loops (indefinite without break)
+
+Iterations: Definite Loops
+- for loops 
+
+Iterations: Loop Idioms
+- finding the largest number in a list using a loop
+
+Iterations: More Patterns
+- counting, summing, averaging, filtering, search using a boolean, finding smallest value 
+- is and is not
+- is is similar to == but is STRONGER, e.g. 0 == 0.0 is YES, but 0 is 0.0 is NO.
+
+Strings in Python
+- looping through Strings
+- counting a certain char in string through filtering
+
+Intermediate Strings
+- slicing strings 
+- s[0:4] , read as s SUB 0 to 4
+- [:2] from start to 2
+- [8:] from 8 to end
+- can use [in] as a logical operator in String
+- .lower() .upper() --> object oriented
+- type(variable) : type of variable
+- dir(var) : more stuff you can do with var
+- replace / rfind / rpartition, rsplit
+- lstrip / rstrip/ strip
+- find for parsing and extracting
+- python 3 even if it a unicode, it will still be a str type, however in python 2 it will be unicode type.
+
+Reading Files
+- open(filename, mode) // 'r' / 'w' / 'a'
+- \n is a newline
+
+Files as a Sequence
+- sequence of lines using for loop 
+- startswith('..')
+- continue
+- quit()
+
+Python Lists
+- lists are mutable
+- len(list_var)
+- range(4) = [0, 1, 2, 3]
+
+Working with Lists
+- lists can be sliced -> read as up to but not including 
+- e.g. 1:3 --> 1 and 2 
+- append, count, extend, index, insert, pop, remove, reverse, sort 
+- append is one char, extend is for another iterable
+
+Strings and Lists
+- when its a string, you can use a split to get lists
+
+Python Dictionaries
+- collections: put more than one value in it and carry them around
+- essentially key value pair 
+-- its called diffently for different languages
+-- associative arrays in Perl and PHP 
+-- Properties or Map or HashMap in Java 
+-- Property Bag in C# / .Net
+- can initialize Dictionaries with = new dict() or {}
+
+Dictionaries: Common Applications
+- usually counting historgrams
+- adding count to dictionary using list as a key
+- get method has two params, get(key, default)
+
+Dictionaries and Loops
+- can convert to list using list(...)
+- can use .keys() to get list of keys
+- can use .values() to get values of the dict
+- items() -> get list with a tuple inside.
+- use for loop on items() with a tuple.
+
+The Tuples Collection
+- once you create a tuple, you cannot ALTER it
+- tuples are more efficient 
+- tuples are comparable (0, 1, 2) < (5, 1, 2) is TRUE !
+
+Comparing and Sorting Tuples
+- sorted(dictionary.items()) which will sort it by key (which is always unique and distinct as opposed to a list)
+- introduction of list comprehension -> creates a dynamic list. 
+
+Regular Expressions
+- import re 
+- re.search() is like startswith()  --> returns true false 
+- find() 
+- \S means a non-white space character
+- \s only white-space char 
+
+Regular Expressions: Matching and Extracting Data
+- findall() if we want to extract it , returns a list of string from the matching regex
+
+Regular Expressions: Practical Applications
+- different types of regex
+
+Networking with Python
+- port is an application-specific software communcations endpoint
+- library: socket 
+
+...
+
+Networking: Text Processing
+- ord() fuinction tells us the numeric value of a simple ASCII char 
+- UTF-16 : fixed length - two bytes
+- UTF-32 : fixed length - four bytes
+- UTF-8 : 1-4 bytes
+- data is sent out in bytes (so must know what is the bytes format to convert -> decode or encode accordingly to receive or send)
+
+Networking: Using urllib in Python
+- since http is so common, have a library that deos all the socket work for us and makes the webpage look like a file
+
+Networking: Web Scraping with Python
+- program pretends to be a browsers and retrives web pages
+- BeautifulSoup
+
+Web Services: XML Schema
+- XSD is the W3C schema specification for XML
+
+...
+
+Object Lifecycle
+- constructor --> def __init__(self):
+- destructor --> def __del__(self):
+
+Objects: Inheritance
+
+- class ParentClass:
+- class SubClass(ParentClass):
+
+
