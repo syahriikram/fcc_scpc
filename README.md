@@ -9,7 +9,10 @@
 - Related codes can be found in the 1_Arithmetic_Arranger folder
 - Objective: to print out a nicely formatted arithmetic table
 
-
+## 2nd project: Time Calculator
+- Development was done on replit: https://replit.com/@SyahriIkram/boilerplate-time-calculator
+- Related codes can be found in the 2_Time_Calculator folder
+- Objective: utilizing basic logic and string manipulation to add time in a formatted manner
 
 ## 4th project: Polygon Area Calculator
 - Development was done on replit: https://replit.com/@SyahriIkram/boilerplate-polygon-area-calculator
