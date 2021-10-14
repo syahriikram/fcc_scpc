@@ -23,3 +23,8 @@
 - Development was done on replit: https://replit.com/@SyahriIkram/boilerplate-polygon-area-calculator
 - Related codes can be found in the 4_Polygon_Area_Calculator folder
 - Objective: polygon calculator with object oriented programming
+
+## 5th project: Probability Calculator
+- Development was done on replit: https://replit.com/@SyahriIkram/boilerplate-probability-calculator
+- Related codes can be found in the 5_Probability_Calculator folder
+- Objective: copy lists and doing probability counts
