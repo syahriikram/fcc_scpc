@@ -14,6 +14,11 @@
 - Related codes can be found in the 2_Time_Calculator folder
 - Objective: utilizing basic logic and string manipulation to add time in a formatted manner
 
+## 3rd project: Budget App
+- Development was done on replit: https://replit.com/@SyahriIkram/boilerplate-budget-app
+- Related codes can be found in the 3_Budget_App folder
+- Objective: basic OOP concepts and string manipulation for printing data
+
 ## 4th project: Polygon Area Calculator
 - Development was done on replit: https://replit.com/@SyahriIkram/boilerplate-polygon-area-calculator
 - Related codes can be found in the 4_Polygon_Area_Calculator folder
